@@ -9,6 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A new article on DEV with Python](https://dev.to/mattdark/a-new-article-on-dev-with-python-1mb5)
+- [Configure your own GitLab Runner](https://dev.to/mattdark/configure-your-own-gitlab-runner-4o34)
+- [Building Immutable Infrastructure with Packer and GitLab CI](https://dev.to/mattdark/building-immutable-infrastructure-with-packer-and-gitlab-ci-5105)
+- [Automate your posting process on DEV with Python, Bash and GitLab CI](https://dev.to/mattdark/automate-your-posting-process-on-dev-with-python-bash-and-gitlab-ci-5fm6)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
