@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mario García</h1>
-<h3 align="center">An active Open Source contributor. Percona Technical Evangelist. Speaker. DevOps Enthusiast. GitLab Hero</h3>
+<h3 align="center">An active Open Source contributor. Speaker. DevOps Enthusiast. GitLab Hero</h3>
 
 <p align="left"> <a href="https://twitter.com/mariogmd" target="blank"><img src="https://img.shields.io/twitter/follow/mariogmd?logo=twitter&style=for-the-badge" alt="mariogmd" /></a> </p>
 
